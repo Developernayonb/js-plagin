@@ -2,4 +2,4 @@
 js-plagin
 
 
-https://mdnayonbabujibon.github.io/js-plagin/.
+https://developernayonb.github.io/js-plagin/
